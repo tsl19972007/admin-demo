@@ -11,3 +11,9 @@
 - 脚手架:Antd Pro
 
 ## 本地部署
+- 创建数据库admin_demo,导入src/main/resources/schema.sql
+- 修改application.properties内的MySQL配置的账号密码
+- 启动服务，管理员账号密码为admin/admin
+
+## 前端
+https://github.com/tsl19972007/admin-demo-ui
